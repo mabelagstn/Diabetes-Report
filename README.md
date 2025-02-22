@@ -1,5 +1,5 @@
 # Diabetes Report
-In this project, I developed a machine learning model to predict diabetes status based on a dataset of 100,000 survey responses. 
+In this project, I analysed the best classifier to predict diabetes status based on a dataset of 100,000 survey responses. 
 The dataset included eight key features: age, gender, body mass index (BMI), hypertension, heart disease, smoking history, HbA1c level, and blood glucose level. 
 The goal was to identify the best classifier for accurately predicting diabetes status, with a focus on minimizing the False Negative Rate (FNR) to ensure early detection and treatment of diabetes.
 
